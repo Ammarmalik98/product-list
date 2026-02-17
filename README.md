@@ -1,16 +1,42 @@
-# React + Vite
+<p align="center">
+  <img src="./public/shugaspot-screenshot.png" alt="Shuga Pastries App Screenshot" width="100%" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🍰 Shuga Pastries – Dessert Ordering UI
 
-Currently, two official plugins are available:
+A modern, responsive dessert ordering interface built with clean layout principles and a focus on intuitive cart interaction.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project showcases a visually appealing product grid, interactive cart functionality, and a minimal, elegant UI suitable for an e-commerce pastry brand.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🧁 Product grid layout
+- ➕ Add to Cart functionality
+- ➖ Increment / Decrement quantity controls
+- 🛒 Dynamic cart summary panel
+- 💰 Real-time order total calculation
+- 🌱 Carbon-neutral delivery badge UI
+- 🎨 Clean, soft color palette with strong visual hierarchy
+- 📱 Responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+The interface includes:
+
+- Dessert product cards (Waffle with Berries, Vanilla Bean Crème Brûlée, Macaron Mix, etc.)
+- Interactive quantity selector
+- Sticky cart summary panel
+- Clear call-to-action button for order confirmation
+
+---
+
+## 🛠️ Built With
+
+- React
+
+&copy; 2026 Ammar.
+
